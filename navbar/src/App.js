@@ -11,7 +11,7 @@ function App() {
   const sr = scrollreveal({
     origin: "top",
     distance: "80px",
-    duration: 1700,
+    duration: 1600,
     reset: true,
   });
   sr.reveal(
