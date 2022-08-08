@@ -16,8 +16,7 @@ function App() {
   });
   sr.reveal(
     `
-      nav,
-      footer
+      nav
       `,
     {
       opacity: 0,
